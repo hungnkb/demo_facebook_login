@@ -1,0 +1,50 @@
+#header {
+    height: 715px;
+}
+
+.container {
+max-width: 2083px;
+}
+
+.facebook-logo {
+    width: 301px;
+    height: 106px;
+}
+
+.facebook-description {
+
+}
+
+
+.bg-lightgrey {
+    background-color: #f0f2f5;
+}
+
+.form {
+    width: 350px;
+}
+
+.shadow-lb {
+    box-shadow: inset 0 1px rgba(255, 255, 255, 0.3), inset 0 0 1px 1px rgba(255, 255, 255, 0.1), 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+a {
+    text-decoration: none;
+}
+
+p>a:hover {
+    text-decoration: underline;
+}
+
+p>a {
+    color: black;
+    font-weight: bold;
+}
+
+.facebook-description>p {
+    font-weight: bold;
+}
+
+.pt-7 {
+    padding-top: 125px;
+}
