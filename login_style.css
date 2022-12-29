@@ -32,11 +32,11 @@ a {
     text-decoration: none;
 }
 
-p>a:hover {
+#text-create:hover {
     text-decoration: underline;
 }
 
-p>a {
+#text-create {
     color: black;
     font-weight: bold;
 }
